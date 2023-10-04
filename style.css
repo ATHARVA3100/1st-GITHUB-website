@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: goldenrod;
+}
+button{
+  background-color: #fb2904;padding: 5mm;
+}
+script{
+   height: 100%;
+  width: 100%;
+  background-color: Yellow;
+}
